@@ -132,10 +132,3 @@ Gracias a este proyecto aprendí a:
 En resumen, esta aplicación me permitió **consolidar conocimientos de programación, bases de datos y diseño de interfaces gráficas**, integrando lo aprendido en un proyecto funcional y educativo.
 
 ---
-
-## 🧑‍💻 Autor
-
-**Gustavo Adolfo Esteban Batres**  
-Estudiante de Ingeniería en Sistemas  
-Universidad de San Carlos de Guatemala  
-2025
